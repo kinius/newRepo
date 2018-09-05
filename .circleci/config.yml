@@ -16,7 +16,7 @@ jobs:
       - run:
           name: run links tests
           command: |
-            awesome_bot -f README.md,firstFile.md,secondFile.md,thirdFile.md --allow-dupe --allow-redirect --base-url https://github.com/kinius/newRepo/blob/$CIRCLE_BRANCH/ --white-list http://documentup.com/profile-org-name/repo-name,https://circleci.com/gh/profile-org-name/repo-name,https://circleci.com/gh/profile-org-name/repo-name/tree/master.svg?style=svg
+            awesome_bot -f README.md,firstFile.md,secondFile.md,thirdFile.md --allow-dupe --allow-redirect --base-url https://github.com/kinius/newRepo/blob/$CIRCLE_BRANCH/ --white-list http://documentup.com/profile-org-name/repo-name,https://circleci.com/gh/profile-org-name/repo-name,https://circleci.com/gh/profile-org-name/repo-name/tree/master.svg?style=svg,https://github.com/kinius/newRepo/blob/master/url,https://github.com/kinius/newRepo/blob/master/src
 
 workflows:
    version: 2
