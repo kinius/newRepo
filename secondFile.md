@@ -23,9 +23,6 @@ insonuit vicimus temptata equique.
 Acto patulis turaque etsi figuram iniqua haberet bracchia, discite, **sanguine
 aliter**, quae. Conantem gradus, et Cancri *divitiis* iuvat.
 
-Illa albam, freta, fores de e [simul](http://congelat.com/gemitus.html) inprobe
-pallentem, adsuetudine. Quid nec. Nec removere regis, ortus, regno? Haec
-indigenas pristina, torum esse oculos puero, trado!
 
 ## Nisi piorum ne per primamque absens manus
 
