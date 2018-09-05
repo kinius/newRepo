@@ -1,4 +1,5 @@
 [wrong link](thirdFil.md)
+[link to thirtFile](thirdFile.md)
 
 # Sacrorum deum
 
