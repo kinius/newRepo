@@ -1,4 +1,4 @@
-[wrong link](thirdFil.md)
+[repaired link](thirdFile.md)
 
 [link to thirtFile](thirdFile.md)
 
